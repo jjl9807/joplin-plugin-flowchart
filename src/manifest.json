@@ -1,0 +1,15 @@
+{
+	"manifest_version": 1,
+	"id": "org.joplinapp.plugins.flowchart",
+	"app_min_version": "2.13",
+	"version": "1.0.0",
+	"name": "Markdown Flowchart",
+	"description": "Joplin markdown plugin for flow chart using flowchart.js",
+	"author": "jjl9807",
+	"homepage_url": "https://github.com/jjl9807/joplin-plugin-flowchart",
+	"repository_url": "https://github.com/jjl9807/joplin-plugin-flowchart",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {}
+}
